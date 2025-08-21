@@ -63,13 +63,15 @@ stockPortfolio/
 ├── package.json         # Dependencies
 ├── .env                 # API key (ignored by git)
 └── README.md            # This document
-Future Improvements
+
+## Future Improvements
 ✅ Improve formatting (commas, rounding).
 🔲 Add persistent storage (JSON or database) so portfolio saves across runs.
 🔲 Build a simple web interface for real-time viewing.
 🔲 Add support for fractional shares & ETFs.
 🔲 Explore charting libraries to visualize portfolio growth.
-Why This Project Matters to Me
+
+## Why This Project Matters to Me
 This portfolio tracker isn’t just about stocks — it’s about learning JavaScript fundamentals:
 Working with arrays, loops, and objects.
 Handling API calls with fetch.
