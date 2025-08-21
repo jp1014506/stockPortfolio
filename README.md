@@ -45,19 +45,20 @@ Usage
 Run the script using Node.js:
 node "Stock Portfolio.js"
 Sample output:
-737 shares of NVDA added to your portfolio.
-0.5 shares of VGT added to your portfolio.
+100 shares of GOOG added to your portfolio.
+350 shares of SPY added to your portfolio.
 APPL not found in portfolio.
-You have 637 of NVDA left in your portfolio.
-[ { symbol: 'NVDA', shares: 637 }, { symbol: 'VGT', shares: 0.5 } ]
+You have 20 of GOOG left in your portfolio.
+[ { symbol: 'GOOG', shares: 20 }, { symbol: 'SPY', shares: 350 } ]
 
 📊 Portfolio Breakdown:
 --------------------------
-NVDA: 637 shares @ $175.64 = $111,882.68
-VGT: 0.5 shares @ $688.81 = $344.40
+GOOG: 20 shares @ $164.42 = $3,288.40
+SPY: 350 shares @ $254.11 = $88,938.5
 --------------------------
-💰 Total Portfolio Value: $112,227.08
-Project Structure
+💰 Total Portfolio Value: $92,226.90
+
+## Project Structure
 stockPortfolio/
 ├── Stock Portfolio.js   # Main implementation
 ├── package.json         # Dependencies
