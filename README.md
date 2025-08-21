@@ -60,10 +60,10 @@ SPY: 350 shares @ $254.11 = $88,938.5
 
 ## Project Structure
 stockPortfolio/
-├── Stock Portfolio.js   # Main implementation
-├── package.json         # Dependencies
-├── .env                 # API key (ignored by git)
-└── README.md            # This document
+├── Stock Portfolio.js   
+├── package.json       
+├── .env               
+└── README.md            
 
 ## Future Improvements
 ✅ Improve formatting (commas, rounding).
